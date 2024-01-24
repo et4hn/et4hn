@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi. my name is Ethan and I go to southwest career and technical academy, and one of my main hobbies is playing volleyball.
 <!--
 **et4hn/et4hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
